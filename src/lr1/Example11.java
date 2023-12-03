@@ -14,6 +14,5 @@ public class Example11 {
         System.out.println(name + " " + age);
 
         in.close();
-
     }
 }
